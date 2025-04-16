@@ -1,0 +1,13 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+.nav-menu {
+  display: flex;
+  list-style-type: none;
+  gap: 30px;
+  justify-content: end;
+  /* text-decoration: none; */
+}
